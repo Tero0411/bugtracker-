@@ -9,7 +9,7 @@ include("conexion.php");
 
 <meta charset="UTF-8">
 
-<title>BugTracker</title>
+<title>Sistema de incidencias</title>
 
 <link rel="stylesheet" href="css/styles.css">
 
